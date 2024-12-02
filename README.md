@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 <a href="https://fin-veda.vercel.app/" target="_blank" title="Go to the VignanAIDynamics  website"><img height="256px" alt="VignanAIDynamics  logo" src="https://github.com/user-attachments/assets/5e45e1f4-7e0d-45b1-914d-80b6ab77ddd8"></a>
 <table align="center">
@@ -123,3 +124,6 @@ If you find this project useful and would like to support the project, please co
 
 <h3 align="center">Keep learning and exploring! 🚀</h3>
 <h3 align="center">Happy coding! 👩‍💻🎉 </h3>
+=======
+# VignanAIDynamics
+>>>>>>> 4ab9940c7654dc27956f3700455eb432c71f7b5c
